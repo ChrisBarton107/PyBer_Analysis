@@ -5,8 +5,13 @@ The purpose of the analysis was to provide ride-sharing data by city type. City 
 
 ## Results
 The analysis found differences in rides, drivers, and fares for each city type. The urban environment, as you would expect, was found to have the highest amount of drivers and riders, which resulted in the highest total fares among the three groups. The rural environment was found to have the lowest amount of drivers and riders which resulted in the lowest total fares among the three groups. However, the rural areas had the highest average fare per ride and the highest average fare per driver.<br>
-Analysis Summary: https://github.com/ChrisBarton107/PyBer_Analysis/blob/main/Resources/PyBer_Summary.png<br>
-Total Fares: https://github.com/ChrisBarton107/PyBer_Analysis/blob/main/PyBer_fare_summary.png
+
+**Analysis Summary**<br> 
+<img src= "https://github.com/ChrisBarton107/PyBer_Analysis/blob/main/Resources/PyBer_Summary.png" width="1000"><br>
+
+**Total Fares**<br> 
+<img src= "https://github.com/ChrisBarton107/PyBer_Analysis/blob/main/PyBer_fare_summary.png" width="1000"><br>
+
 ## Summary
 Based on the results of the analysis:
 - Drivers operating within an urban setting will compete with more drivers but will have more opportunities for rides. Driving in an urban environment is optimal for drivers who drive more frequently.
